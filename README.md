@@ -1,3 +1,3 @@
 # C++
 
-Practice 1 Semester
+Practice 2nd Semester
